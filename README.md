@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <h1 align="center">WSeg-MVSNet: Self-supervised Multi-view Stereo via Robust Weighted Segmentation</h1>
+  <h1 align="center">WSeg-MVSNet: Self-supervised Multi-view Stereo with Robust Weighted Segmentation</h1>
 
   <p align="center">
     <a>Licheng Sun</a><sup>1</sup>,
@@ -15,7 +15,7 @@
 
 ## Introduction
 
-This is the official pytorch implementation of our paper: WSeg-MVSNet: Self-supervised Multi-view Stereo via Robust Weighted Segmentation. In this paper, we propose a novel and more robust semantic MVS (Multi-View Stereo) method to address the aforementioned challenges. Our method eliminates noisy information from erroneous corresponding points between adjacent views and proposes a more adaptive and robust semantic information framework to explore semantic consistency among neighboring views, thus reducing errors caused by occlusion or non-Lambertian surfaces. Additionally, we incorporate effective data augmentation mechanisms, normalizing the predictions of augmented samples using regular samples' predictions as pseudo ground truth, ensuring algorithm robustness during complex scene reconstruction. Experimental results on the DTU dataset demonstrate that our proposed method achieves state-of-the-art performance among unsupervised methods and even surpasses some supervised methods. Finally, we show the generalizability of our method on the Tanks \& Temples dataset.
+This is the official pytorch implementation of our paper: WSeg-MVSNet: Self-supervised Multi-view Stereo with Robust Weighted Segmentation. In this paper, we propose a novel and more robust semantic MVS (Multi-View Stereo) method to address the aforementioned challenges. Our method eliminates noisy information from erroneous corresponding points between adjacent views and proposes a more adaptive and robust semantic information framework to explore semantic consistency among neighboring views, thus reducing errors caused by occlusion or non-Lambertian surfaces. Additionally, we incorporate effective data augmentation mechanisms, normalizing the predictions of augmented samples using regular samples' predictions as pseudo ground truth, ensuring algorithm robustness during complex scene reconstruction. Experimental results on the DTU dataset demonstrate that our proposed method achieves state-of-the-art performance among unsupervised methods and even surpasses some supervised methods. Finally, we show the generalizability of our method on the Tanks \& Temples dataset.
 
 ![](Image/Comparison.jpg)
 
