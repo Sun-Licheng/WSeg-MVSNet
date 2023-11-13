@@ -5,7 +5,7 @@
 
   <p align="center">
     <a>Licheng Sun</a><sup>1</sup>,
-	<a>Liang Wang</a><sup>1</sup>, 
+	<a>Liang Wang</a><sup>1</sup>
     
 <br />
     <a href="https://github.com/Sun-Licheng/WSeg-MVSNet">Paper</a> | <a href="https://github.com/Sun-Licheng/WSeg-MVSNet">Project page</a>
