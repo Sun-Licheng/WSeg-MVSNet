@@ -2,6 +2,16 @@
 
 <div align="center">
   <h1 align="center">WSeg-MVSNet: Self-supervised Multi-view Stereo with Robust Weighted Segmentation</h1>
+  <div align="center">
+    <a href="https://github.com/Sun-Licheng/YOLOG" target="_blank">
+        <img alt="Static Badge" src="https://img.shields.io/badge/version-1.0.0-blue">
+        <img alt="Static Badge" src="https://img.shields.io/badge/contributors-2-green">
+        <img alt="Static Badge" src="https://img.shields.io/badge/paper-waiting-green">
+        <img alt="Static Badge" src="https://img.shields.io/badge/code-waiting-green">
+        <img alt="Static Badge" src="https://img.shields.io/badge/license-BSD2%2FBSD3-orange">
+        <img alt="Twitter URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fleecheng_sun%40126.com&logo=gmail&label=mail%40licheng_sun">
+
+</div>
 
   <p align="center">
     <a>Licheng Sun</a><sup>1</sup>,
