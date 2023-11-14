@@ -27,7 +27,7 @@ git clone https://github.com/Sun-Licheng/WSeg-MVSNet.git
 cd WSeg-MVSNet
 ```
 
-The code is tested with Python == 3.7, PyTorch == 1.8.10 and CUDA == 11.3 on NVIDIA GeForce RTX A6000. We recommend you to use [anaconda](https://www.anaconda.com/) to manage dependencies. You may need to change the torch and cuda version in the `requirements.txt` according to your computer.
+The code is tested with Python == 3.7, PyTorch == 1.8.10 and CUDA == 11.3 on NVIDIA Quadro P5000. We recommend you to use [anaconda](https://www.anaconda.com/) to manage dependencies. You may need to change the torch and cuda version in the `requirements.txt` according to your computer.
 ```
 conda create -n WSeg-MVSNet python=3.7
 conda activate WSeg-MVSNet
