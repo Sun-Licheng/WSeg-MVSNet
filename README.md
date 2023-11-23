@@ -38,7 +38,7 @@ cd WSeg-MVSNet
 ```
 
 The code is tested with Python == 3.7, PyTorch == 1.8.10 and CUDA == 11.3 on NVIDIA Quadro P5000(
-Here, we extend our sincere appreciation to the Multimedia Laboratory at Beijing University of Technology and the 15th Research Institute of China Electronics Corporation for providing invaluable computing resources.). We recommend you to use [anaconda](https://www.anaconda.com/) to manage dependencies. You may need to change the torch and cuda version in the `requirements.txt` according to your computer.
+Here, we extend our sincere appreciation to the Multimedia Laboratory at Beijing University of Technology for providing invaluable computing resources.). We recommend you to use [anaconda](https://www.anaconda.com/) to manage dependencies. You may need to change the torch and cuda version in the `requirements.txt` according to your computer.
 ```
 conda create -n WSeg-MVSNet python=3.7
 conda activate WSeg-MVSNet
